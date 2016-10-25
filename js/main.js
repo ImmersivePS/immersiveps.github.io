@@ -116,7 +116,7 @@ $(window).load(function(){
        // >> Finished projects
       $('#counter-item-title1').countTo({
         from: 1,
-        to: 8250,
+        to: 8300,
         speed: 1500,
         refreshInterval: 50,
         onComplete: function(value) {
@@ -138,7 +138,7 @@ $(window).load(function(){
       // >> Working Hours
       $('#counter-item-title3').countTo({
         from: 1,
-        to: 93,
+        to: 94,
         speed: 1500,
         refreshInterval: 50,
         onComplete: function(value) {
