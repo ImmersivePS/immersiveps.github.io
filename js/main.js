@@ -116,7 +116,7 @@ $(window).load(function(){
        // >> Finished projects
       $('#counter-item-title1').countTo({
         from: 1,
-        to: 8500,
+        to: 8400,
         speed: 1500,
         refreshInterval: 50,
         onComplete: function(value) {
@@ -127,7 +127,7 @@ $(window).load(function(){
       // >> Happy Customers
       $('#counter-item-title2').countTo({
         from: 1,
-        to: 287,
+        to: 282,
         speed: 1500,
         refreshInterval: 50,
         onComplete: function(value) {
@@ -138,7 +138,7 @@ $(window).load(function(){
       // >> Working Hours
       $('#counter-item-title3').countTo({
         from: 1,
-        to: 97,
+        to: 96,
         speed: 1500,
         refreshInterval: 50,
         onComplete: function(value) {
@@ -149,7 +149,7 @@ $(window).load(function(){
       // >> Partnerships in the Word
       $('#counter-item-title4').countTo({
         from: 1,
-        to: 57,
+        to: 56,
         speed: 1500,
         refreshInterval: 50,
         onComplete: function(value) {
