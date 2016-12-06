@@ -113,10 +113,10 @@ $(window).load(function(){
    // Counters (Used with Waypoints.JS)
   $('#section-show-me-numbers').waypoint(function() {
 
-       // >> Finished projects
+       // >> System Snapshots
       $('#counter-item-title1').countTo({
         from: 1,
-        to: 8550,
+        to: 8600,
         speed: 1500,
         refreshInterval: 50,
         onComplete: function(value) {
@@ -124,7 +124,7 @@ $(window).load(function(){
         }
       });
 
-      // >> Happy Customers
+      // >> Registered Users
       $('#counter-item-title2').countTo({
         from: 1,
         to: 288,
@@ -135,10 +135,10 @@ $(window).load(function(){
         }
       });
 
-      // >> Working Hours
+      // >> Customers
       $('#counter-item-title3').countTo({
         from: 1,
-        to: 97,
+        to: 98,
         speed: 1500,
         refreshInterval: 50,
         onComplete: function(value) {
@@ -146,10 +146,10 @@ $(window).load(function(){
         }
       });
 
-      // >> Partnerships in the Word
+      // >> Resellers Engaged
       $('#counter-item-title4').countTo({
         from: 1,
-        to: 57,
+        to: 58,
         speed: 1500,
         refreshInterval: 50,
         onComplete: function(value) {
